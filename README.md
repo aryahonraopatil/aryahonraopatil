@@ -20,7 +20,7 @@
 
 
 ## Connect with me
-- 🤔 I’m learning to navigate my career in the tech industry. I would love to discuss your learnings, struggles and passions. I like listening to people's stories and understand the complexities of being a human, finding meaning in your work and life and ultimately what really matters in our life!
+- 🤔 I’m learning to navigate my career in the tech industry. I would love to discuss your learnings, struggles and passions. I like listening to people's stories and understand the complexities of being a human, finding meaning in our work and life and ultimately what really matters in our life!
  
 - 💬 Ask me about security, building systems, networks, large language models, my projects, my experiences, coffee, yoga, anything! I would love to hear from you!
   
