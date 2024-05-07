@@ -1,11 +1,11 @@
 ## Hi there 👋 
 
 
-### I'm Arya Honraopatil, an ardent developer and analytical researcher!  
+### I'm Arya Honraopatil, a computer science researcher!  
 
 ## About me
-- 🔭 I’m currently working on building secure AI applications. 
-- 🌱 I’m looking for new opportunities in software development, AI/ML and security.
+- 🔭 I’m currently working on building AI applications. 
+- 🌱 I’m looking to collaborate on research projects involving Natural lnaguage processing, and speech technologies. 
 - 👩🏻‍🎓 I have a Masters in Computer Science and a Bachelors in Computer Engineering.
 
 
