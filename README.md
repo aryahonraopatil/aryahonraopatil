@@ -31,4 +31,4 @@
 
 
 ## Carpe Diem
-- ⚡ Fun fact: The brain's storage capacity is virtually limitless. It is estimated that the human brain can store the equivalent of 2.5 petabytes of data, which is roughly equivalent to 3 million hours of television shows!! 
+- ⚡ Fun fact: The human brain can store the equivalent of 2.5 petabytes of data, which is roughly equivalent to 3 million hours of television shows!! 
