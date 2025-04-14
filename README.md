@@ -4,9 +4,9 @@
 ### I'm Arya Honraopatil, a human-centered AI researcher!  
 
 ## About me
-- 🔭 I’m currently working on expressive storytelling and Dungeons & Dragons AI. 
+- 🔭 I’m currently working on expressive storytelling and Dungeons & Dragons AI at [LARA Lab](https://laramartin.net/lab/).
 - 🌱 I’m looking to collaborate on research projects involving natural lnaguage processing (NLP), reinforcement learning (RL) and speech technologies. 
-- 👩🏻‍🎓 I am pursuing my Ph.D. in OCmputer Science at UMBC and have a Masters in Computer Science and a Bachelors in Computer Engineering.
+- 👩🏻‍🎓 I am pursuing my Ph.D. in Computer Science at UMBC and have a Masters in Computer Science and a Bachelors in Computer Engineering.
 
 
 
@@ -24,7 +24,7 @@
  
 - 💬 Ask me about large language models, speech technologies, emotional storytelling, my experiences, coffee, yoga, anything! I would love to hear from you!
   
-- 📫 How to reach me: I am active on Linkedin (https://www.linkedin.com/in/arya-honraopatil/) but also available via email (aryahonraopatil@gmail.com)
+- 📫 How to reach me: I am active on [Linkedin](https://www.linkedin.com/in/arya-honraopatil/) but also available via [email](mailto:aryahonraopatil@gmail.com).
 
 - Pronouns: She/Her
 
