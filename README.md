@@ -1,12 +1,12 @@
 ## Hi there 👋 
 
 
-### I'm Arya Honraopatil, a computer science researcher!  
+### I'm Arya Honraopatil, a human-centered AI researcher!  
 
 ## About me
-- 🔭 I’m currently working on building AI applications. 
-- 🌱 I’m looking to collaborate on research projects involving Natural lnaguage processing, and speech technologies. 
-- 👩🏻‍🎓 I have a Masters in Computer Science and a Bachelors in Computer Engineering.
+- 🔭 I’m currently working on expressive storytelling and Dungeons & Dragons AI. 
+- 🌱 I’m looking to collaborate on research projects involving natural lnaguage processing (NLP), reinforcement learning (RL) and speech technologies. 
+- 👩🏻‍🎓 I am pursuing my Ph.D. in OCmputer Science at UMBC and have a Masters in Computer Science and a Bachelors in Computer Engineering.
 
 
 
@@ -22,7 +22,7 @@
 ## Connect with me
 - 🤔 I’m learning to navigate my career in the tech industry. I would love to discuss your learnings, struggles and passions. I like listening to people's stories and understand the complexities of being a human, finding meaning in our work and life and ultimately what really matters in our life!
  
-- 💬 Ask me about security, building systems, networks, large language models, my projects, my experiences, coffee, yoga, anything! I would love to hear from you!
+- 💬 Ask me about large language models, speech technologies, emotional storytelling, my experiences, coffee, yoga, anything! I would love to hear from you!
   
 - 📫 How to reach me: I am active on Linkedin (https://www.linkedin.com/in/arya-honraopatil/) but also available via email (aryahonraopatil@gmail.com)
 
