@@ -11,16 +11,15 @@
 
 
 ## Skills 
-- Languages: C#, JavaScript, Python, Java, C++, HTML, CSS, SQL, NoSQL
-- Frameworks & Libraries: .NET, Angular, React, Bootstrap
+- Languages: Python, C++, HTML, SQL, NoSQL
 - Databases: SQL Server, Oracle, MySQL, MongoDB
 - Cloud Platforms: Microsoft Azure, Amazon Web Service
-- Tools & Technologies: Git, Docker, Jenkins, RESTful APIs, DevOps, CI/CD, Tableau, PowerBI
+- Tools & Technologies: Git, Docker, Jenkins, RESTful APIs
 
 
 
 ## Connect with me
-- 🤔 I’m learning to navigate my career in the tech industry. I would love to discuss your learnings, struggles and passions. I like listening to people's stories and understand the complexities of being a human, finding meaning in our work and life and ultimately what really matters in our life!
+- 🤔 I’m learning to be a better researcher and plan to go into academia after my Ph.D. I would love to discuss your learnings, struggles and passions. I like listening to people's stories and understand the complexities of being a human, finding meaning in our work and life and ultimately what really matters in our life!
  
 - 💬 Ask me about large language models, speech technologies, emotional storytelling, my experiences, coffee, yoga, anything! I would love to hear from you!
   
@@ -31,4 +30,4 @@
 
 
 ## Carpe Diem
-- ⚡ Fun fact: The human brain can store the equivalent of 2.5 petabytes of data, which is roughly equivalent to 3 million hours of television shows!! 
+- ⚡ Fun fact: I can write with both my hands (might be a little rusty though!). My cousin got me to use my non-dominant hand and I really wanted to try it! 
